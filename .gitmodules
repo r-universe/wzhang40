@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "BipartiteModularityMaximization"]
 	path = BipartiteModularityMaximization
-	url = https://github.com/cran/BipartiteModularityMaximization
+	url = https://github.com/wzhang40/bipartitemodularitymaximization
